@@ -29,5 +29,5 @@ This project is an assignment for the **SQA course at SLIIT**, created to demons
 
 ---
 
-## 📁 Project Structure
+
 
